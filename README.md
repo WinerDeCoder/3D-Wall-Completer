@@ -20,6 +20,8 @@ The brief Solution of my is below:
 For example images, you can see in folder "Images"
 
 > [!NOTE]
-> The main file is "local.py", you should see my modification in there
-> Raw point clouds can be found in 2 folder "np_points" (raw after denoise ) and "wall_nphuc" (raw)
+> The main file is "local.py", you should see my modification in there.
+> 
+> Raw point clouds can be found in 2 folder "np_points" (raw after denoise ) and "wall_nphuc" (raw).
+> 
 > You shoul read the ConVex Hull algorithm 
